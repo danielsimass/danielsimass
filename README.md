@@ -5,10 +5,15 @@ I enjoy solving technical challenges, writing clean code, and delivering high-qu
 
 ---
 
-## 🧑‍💻 About Me
-- 🛠️ Experienced in building **scalable microservices, APIs, and cloud solutions**  
-- 🚀 Sole developer and technical lead in key projects, responsible for architecture and delivery  
-- 📚 Passionate about learning new technologies and improving my skills continuously  
+## 🧑‍💻 About Me 
+- 🛠️ Experienced in **TypeScript, JavaScript, Node.js, NestJS, React, TypeORM, PostgreSQL, Docker, RabbitMQ, and Kubernetes (AKS)**  
+- ☁️ Hands-on with **cloud technologies** and distributed systems  
+- 🧪 Strong focus on **testing (unit and integration)**, **monitoring** and **telemetry (OpenTelemetry)**  
+- 📚 Passionate about **logic and mathematics**, always eager to solve complex problems  
+- 🎯 I love **challenges** that push me out of my comfort zone and help me grow as a developer and as a person  
+- 💡 Constantly learning new technologies and refining my skills to deliver better and smarter solutions  
+- 🏀 Outside of tech, I enjoy **sports**, spending time with **animals**, and making people laugh with my **bad jokes** 😅  
+
 
 ---
 
